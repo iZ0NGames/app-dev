@@ -7,10 +7,7 @@ My First Repository
 4. **Attack on Titan**
 5. **Heavenly Delusions**
 
-| Syntax | Description |
+| List | Name |
 | ----------- | ----------- |
-| Header | Title| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | |
+| Header | Title|
 | Paragraph | Text |
