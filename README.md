@@ -7,7 +7,6 @@ My First Repository
 4. **Attack on Titan**
 5. **Heavenly Delusions**
 
-| List | Name |
+| Name | Description |
 | ----------- | ----------- |
-| Header | Title|
-| Paragraph | Text |
+| Blue Eye Samurai | |
