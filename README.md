@@ -4,7 +4,7 @@ My First Repository
 ---
 | Name | Description |
 | ----------- | ----------- |
-| Blue Eye Samurai | |  |  ||---------|-------||
+| Blue Eye Samurai | | Chuchuness | sdwawd | |
 | Violet Evergarden | |
 | Samurai Champlo | |
 | Attack on Titan | |
