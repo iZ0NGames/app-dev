@@ -9,5 +9,8 @@ My First Repository
 
 | Syntax | Description |
 | ----------- | ----------- |
+| Header | Title| Syntax | Description |
+| ----------- | ----------- |
 | Header | Title |
+| Paragraph | Text | |
 | Paragraph | Text |
