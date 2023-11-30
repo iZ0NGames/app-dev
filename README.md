@@ -6,3 +6,8 @@ My First Repository
 3. **Samurai Champlo**
 4. **Attack on Titan**
 5. **Heavenly Delusions**
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
